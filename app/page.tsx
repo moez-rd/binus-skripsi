@@ -27,7 +27,7 @@ export default function HomePage() {
     setLoading(true);
 
     const { data } = await axios.post(
-      `${process.env.NEXT_PUBLIC_APP_URL}/api/thesis/search`,
+      `${process.env.NEXT_PUBLIC_APP_URL}/api/theses/search`,
       {
         query: search,
       }

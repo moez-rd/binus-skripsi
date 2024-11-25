@@ -1,5 +1,5 @@
+import { searchThesis } from "@/lib/firebase/queries";
 import { NextRequest, NextResponse } from "next/server";
-import { searchThesis } from "@/lib/mongodb/thesis";
 
 export async function POST(request: NextRequest) {
   const body = await request.json();
@@ -7,4 +7,3 @@ export async function POST(request: NextRequest) {
   const results = await searchThesis(query);
   return Response.json(results);
 }
- 
