@@ -1,9 +1,10 @@
 "use client";
 
-import React from "react";
-import useHandler from "./handler";
+import useEditHandler from "@/components/organisms/admin/editHandler";
+import useHandler from "@/components/organisms/admin/handler";
+import { getThesisById } from "@/lib/firebase/queries";
 
-export default function Admin() {
+export default function Page({ params }: { params: { id: string } }) {
   const {
     yearsArray,
     handleSubmit,
@@ -11,12 +12,12 @@ export default function Admin() {
     thesis,
     loading,
     success,
-  } = useHandler();
+  } = useEditHandler(params.id);
 
   return (
     <div className="h-screen">
       <div className="p-10 border rounded-lg max-w-4xl mx-auto mt-40">
-        <h1 className="text-center font-bold text-3xl mb-10">Input Skripsi</h1>
+        <h1 className="text-center font-bold text-3xl mb-10">Edit Skripsi</h1>
 
         <form onSubmit={handleSubmit} className="flex flex-col space-y-10">
           <div className="flex flex-col space-y-1">

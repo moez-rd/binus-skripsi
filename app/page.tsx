@@ -1,12 +1,12 @@
 "use client";
 
 import React, { useState } from "react";
-import { Thesis } from "@/types/thesis";
 import { AiOutlineLoading3Quarters } from "react-icons/ai";
 import axios from "axios";
+import { ThesisProps } from "@/lib/firebase/queries";
 
 export default function HomePage() {
-  const [theses, setTheses] = useState<Thesis[]>();
+  const [theses, setTheses] = useState<ThesisProps[]>();
   const [search, setSearch] = useState<string>("");
   const [loading, setLoading] = useState<boolean>(false);
   const [found, setFound] = useState<boolean>(true);
@@ -32,7 +32,6 @@ export default function HomePage() {
         query: search,
       }
     );
-    console.log(data);
 
     setFound(data.length !== 0);
     setTheses(data);
@@ -76,16 +75,17 @@ export default function HomePage() {
           </div>
         ) : (
           <div className="p-6 flex flex-col divide-y">
-            {theses?.map((thesis) => (
-              <div
-                key={thesis._id.toString()}
-                className="max-w-5xl flex flex-col py-6"
-              >
+            {theses?.map((thesis, id) => (
+              <div key={id} className="max-w-5xl flex flex-col py-6">
                 <h2 className="text-2xl font-semibold">{thesis.title}</h2>
                 <div className="flex flex-row space-x-4">
                   <p>
                     <span className="font-semibold">Penulis</span>{" "}
                     {thesis.studentName}
+                  </p>
+                  <p>
+                    <span className="font-semibold">NIM</span>{" "}
+                    {thesis.studentId}
                   </p>
                   <p>
                     <span className="font-semibold">Tahun</span> {thesis.year}

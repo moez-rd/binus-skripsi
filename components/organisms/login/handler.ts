@@ -1,56 +1,64 @@
-import React, {useState} from "react";
-import {User} from "@/types/user";
-import {useRouter} from "next/navigation";
-import {setCookie} from "cookies-next";
+import React, { useState } from "react";
+import { User } from "@/types/user";
+import { useRouter } from "next/navigation";
+import { setCookie } from "cookies-next";
+import axios from "axios";
 
 export default function useHandler() {
-    const [user, setUser] = useState<User>({
+  const [user, setUser] = useState<User>({
+    username: "",
+    password: "",
+  });
+
+  const router = useRouter();
+
+  const [loading, setLoading] = useState<boolean>(false);
+  const [error, setError] = useState<string>("");
+
+  const handleInputChange = (
+    event: React.ChangeEvent<
+      HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement
+    >
+  ) => {
+    const { name, value } = event.target;
+    setUser((prevForm) => ({
+      ...prevForm,
+      [name]: value,
+    }));
+  };
+
+  const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
+    event.preventDefault();
+
+    setLoading(true);
+
+    const { data }: { data: { isFailed: boolean; session: string } } =
+      await axios.post(`${process.env.NEXT_PUBLIC_APP_URL}/api/users`, {
+        username: user.username,
+        password: user.password,
+      });
+
+    console.log(data);
+
+    if (data.isFailed) {
+      setError("Username atau password salah");
+      setUser({
         username: "",
-        password: ""
-    });
+        password: "",
+      });
+      setLoading(false);
+      return;
+    }
 
-    const router = useRouter()
+    setCookie("user-session", data.session, { maxAge: 60 * 60 * 24 * 30 });
 
-    const [loading, setLoading] = useState<boolean>(false)
-    const [error, setError] = useState<string>("")
+    setLoading(false);
 
-    const handleInputChange = (event: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>) => {
-        const {name, value} = event.target;
-        setUser((prevForm) => ({
-            ...prevForm,
-            [name]: value,
-        }));
-    };
+    // redirect('/admin')
+    router.refresh();
 
-    const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
-        event.preventDefault()
+    return;
+  };
 
-        setLoading(true);
-
-        const username: string = process.env.NEXT_PUBLIC_USERNAME || ""
-        const password: string = process.env.NEXT_PUBLIC_PASSWORD || ""
-        const session: string = process.env.NEXT_PUBLIC_SESSION || ""
-
-        if (!(user.username === username && user.password === password)) {
-            setError("Username atau password salah")
-            setUser({
-                username: "",
-                password: ""
-            })
-            setLoading(false)
-            return
-        }
-
-        setCookie("user-session", session, {maxAge: 60 * 60 * 24 * 30})
-
-        setLoading(false);
-
-        // redirect('/admin')
-        router.refresh()
-
-        return
-
-    };
-
-    return {handleInputChange, handleSubmit, loading, error, user}
+  return { handleInputChange, handleSubmit, loading, error, user };
 }
