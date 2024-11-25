@@ -1,16 +1,22 @@
-import { insertThesis, ThesisProps } from "@/lib/firebase/queries";
-import { useRouter } from "next/navigation";
+import { findThesisById, updateThesisById } from "@/lib/mongodb/queries";
+import { ThesisRequest } from "@/types";
 import { NextRequest } from "next/server";
 
-export async function POST(request: NextRequest) {
-  const thesis: ThesisProps = await request.json();
-  const router = useRouter();
+export async function GET(
+  request: NextRequest,
+  { params }: { params: { id: string } }
+) {
+  const thesis = await findThesisById(params.id);
+  return Response.json(thesis);
+}
 
-  //   console.log(router.query.id);
+export async function PUT(
+  request: NextRequest,
+  { params }: { params: { id: string } }
+) {
+  const thesis: ThesisRequest = await request.json();
 
-  console.log(thesis);
-
-  const results = await insertThesis(thesis);
+  const results = await updateThesisById(params.id, thesis);
 
   return Response.json(results);
 }

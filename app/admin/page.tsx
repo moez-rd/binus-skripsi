@@ -1,8 +1,9 @@
-import Link from "next/link";
 import { geAllThesis } from "@/lib/firebase/queries";
+import { findTheses } from "@/lib/mongodb/queries";
+import Link from "next/link";
 
 export default async function AdminPage() {
-  const theses = await geAllThesis();
+  const theses = await findTheses();
 
   return (
     <div className="h-screen">
@@ -20,7 +21,7 @@ export default async function AdminPage() {
         <ul className="mt-10 divide-y">
           {theses?.map((thesis) => (
             <li
-              key={thesis.id}
+              key={thesis._id?.toString()}
               className="max-w-5xl flex justify-between gap-8 items-center py-6"
             >
               <div className="flex flex-col">
@@ -40,7 +41,7 @@ export default async function AdminPage() {
                 </div>
               </div>
               <div>
-                <Link href={`/admin/edit/${thesis.id}`}>Edit</Link>
+                <Link href={`/admin/edit/${thesis._id?.toString()}`}>Edit</Link>
               </div>
             </li>
           ))}

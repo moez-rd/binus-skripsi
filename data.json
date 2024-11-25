@@ -1,0 +1,330 @@
+[
+    {
+        "id": "3kzLIwX6e5Ja1RKUvP0e",
+        "title": "Aplikasi Stok Barang Pada CV. Sukses Abadi Palembang Menggunakan VIBI.NET",
+        "studentId": "18.11.007",
+        "studentName": "Meylinda Patia",
+        "year": "2021",
+        "abstract": "Ketika penulis melakukan observasi penelitian di CV Sukses Abadi, penulis mengetahui bahwa CV Sukses Abadi belum memiliki sebuah sistem yang berbasis komputer atau disebut aplikasi. Pengolahan stok barang pada CV Sukses Abadi masih dilakukan secara biasa yaitu dicatat dibuku besar. Metode yang digunakan dalam pembuatan Aplikasi Pengolahan Stok Barang pada CV Sukses Abadimenggunakan diagram konteks, DFD, dan ERD sedangkan untuk metode pengembangan sistemnya menggunakan metode waterfall atau sering disebut metode air terjun. Perangkat lunak pendukung yang digunakan adalah XAMPP, Visual Basic Net 2010, database MySQL, dan Microsoft Office 2010 sebagai pembangun aplikasi serta dokumentasi dan laporan."
+    },
+    {
+        "id": "5FA5GWySoNZEG5ZQGMd7",
+        "title": "Aplikasi Pengolahan Data Siswa Berprestasi Pada SMA Negeri 2 Penukal Utara Berbasis JAVA",
+        "studentId": "19.11.009",
+        "studentName": "Ade Candra",
+        "year": "2022",
+        "abstract": "Saat itu peneliti melakukan survey observasi di SMAN 2 Pemakal Utara. Pengolahan data di SMAN 2 Penukal Utara telah berbasis komputer namun masih mengakan Aplikas Microsoft Office dan masih banyak kekurangannya. Penulis menyimpulkan untuk membuat aplikasi pengolahan data di SMAN 2 Pemakal Utara p menggunakan pendekatan terstruktur untuk mendukung beberapa teori spesi DFDAERD dan usetode pengembangan sistem yang digunakan unik model waterfall Dan perangkat lunak untuk menggunakan Netbeans, XAMPP, MySQL, Microsoft Office 2007 dan Microsoft Visto 207 sebagai perangkat lunak pendukung. Dengan pengolahan data berbasis komputer akan lebih memadaika pengolahan data yang ada di SMAN 2 Penukal Utara. Adanya aplikasi pengolahan data berbasis komputer dapat membantu guru di SMAN 2 Penukal Utara melakoskaan pengolahan data dan laporan-laporan yang dibutuhkan untuk lebih cepat dan efisien."
+    },
+    {
+        "id": "6Kk0S7GoIWTDm9yf3jix",
+        "title": "Sistem Informasi Berbasis WEB Pada SD Negeri 211 Palembang",
+        "studentId": "16.11.064",
+        "studentName": "M. Hatta Ansyori",
+        "year": "2019",
+        "abstract": "ABSTRAK Penelitian ini bertujuan untuk menghasilkan sistem informasi berbasis Web, metode penelitian yang digunakan adalah Deskriptif dan metode pengembangan sistem waterfall, yang terdiri dari 4 tahapan yaitu: Analisis, Desain, pengkodean dan pengujian. Subjek penelitian ini adalah siswa Sekolah Dasar Negeri 211 Palembang. Setelah melakukan perancangan dan pembuatan program maka hasil akhir yang dicapai adalah sebuah program sederhana yaitu Sistem Informasi Berbasis Web pada Sekolah Dasar Negeri 211 Palembang. Dapat disimpulkan bahwasistem informasi yang dihasilkan adalah sistem informasi pengolahan data dan pelayanan Sekolah Dasar Negeri 211 Palembang. Berdasarkan hasil penelitian - penelitian menyarankan hal berikut yaitu perlu diadakan pelatihan terlebih dahulu kepada admin Website. Kata Kunci: Sistem Informasi, WEB, Sekolah Dasar."
+    },
+    {
+        "id": "B9ZbstUhGpd4maKuVXlF",
+        "title": "Sistem Informasi Perpustakaan di SMK Madyatama Palembang Berbais WEB",
+        "studentId": "19.11.066",
+        "studentName": "Nofita Widianti",
+        "year": "2022",
+        "abstract": "Ketika Penulis melakukan observasi penelitian di SMK Madyatama Palembang. penulis mengetahui bahwa Perpustakaan SMK Madyatama Palembang belum memiliki sebuah sistem yang berbasis web. Pengolahan data SMK Madyatama Palembang masih dilakukan secara manual yaitu dicatat dibuku besar. Disini, Penulis memilih membuat sistem informasi berbasis website karena dengan website pihak SMK Madyatama Palembang dapat memberikan pelayanan akses informasi, kepada para pengunjung dan anggota perpustakaan yang terhubung dengan internet. Melalui website ini pengunjung dan anggota perpustakaan dapat melihat data buku, bisa meminjam buku perpustakaan, dan lain-lain. Website ini dibuat dengan menggunakan alat bantu seperti UML, Diagram Aktivity, Diagram Class, dan Usecase, sedangkan dalam pembuatan kode program penulis menggunakan bahasa pemograman HTML, PHP, MySql, dan CSS. Sedangkan untuk membuatnya penulis dibantu oleh aplikasi XAMPP, Browser, dan Adobe Dreamweaver CS6 Dengan membangun suatu sistem informasi berbasis web diharapkan dapat mengatasi berbagai permasalahan yang ada di Perpustakaan SMK Madyatama Palembang "
+    },
+    {
+        "id": "BvNS49KLvtQ0NOIr5XbJ",
+        "title": "Aplikasi Pengolahan Data Perpustakaan Pada SMK YWKA PAlembang Berbasis JAVA",
+        "studentId": "19.11.024",
+        "studentName": "Novita ",
+        "year": "2022",
+        "abstract": "Saat itu peneliti melakukan survey observasi di SMK YWKA Palembang Pengolahan data di SMK YWKA Palembang telah berbasis komputer namun masih menggunakan Aplikasi Microsoft Office dan masih banyak kekurangannya. Penulis menyimpulkan untuk membuat aplikasi pengolahan data di SMK YWKA Palembang dengan menggunakan pendekatan terstruktur untuk mendukung beberapa teori seperti DFD&ERD dan metode pengembangan sistem yang digunakan untuk model waterfall. Dan perangkat lunak untuk menggunakan Netbeans, XAMPP, dan MySQL, Microsoft Office 2007 dan Microsoft Visio 2007 sebagai perangkat lunak pendukung. Dengan pengolahan data berbasis komputer akan lebih memudahkan pengolahan data yang ada di SMK YWKA Palembang Adanya aplikasi pengolahan data berbasis komputer dapat membantu guru di SMK YWKA Palembang melakukan "
+    },
+    {
+        "id": "D8e1UNWtsSpH8kmx5MaF",
+        "title": "Sistem Informasi Berbasis WeB di SD Negeri 100 Palembang",
+        "studentId": "16.11.068",
+        "studentName": "Rivaldo Agus Triansuri. S",
+        "year": "2019",
+        "abstract": "Ketika penulis melakukan observasi penelitian di SD Negeri 100 Palembang, penulis mengetahui bahwa SD Negeri 100 Palembang belum memiliki sebuah sistem informasi yang berbasis internet atau disebut website Penyampaian informasi SD Negeri 100 Palembang masih dilakukan secara biasa misalnya penyampaian informası melalui mulut ke mulut, pengumuman hanya selebaran kertas. Metode yang digunakan dalam Sistem Informasi berbasis web pada SD Negeri 100 Palembang, serta untuk mengetahui sistem informasi yang berjalan, menggunakan diagram use case, diagram class, dan diagram activity sedangkan untuk metode pengembangan sistemnya menggunakan metode waterfall atau sering disebut metode air terjun Perangkat lunak pendukung yang digunakan adalah XAMPP, Macromedia Dreamweaver CS5, database MySQL, dan Microsoft Office 2013 sebagai pembangun sistem informasi serta dokumentasi dan laporan "
+    },
+    {
+        "id": "Drhm1i4VqeCQmU1aXh2u",
+        "title": "Sistem Informasi Pengolahan Data Perpustakaan di SMA PGRI 2 Palembang Berbasis WEB",
+        "studentId": "19.11.095",
+        "studentName": "Muhammad Faruq",
+        "year": "2022",
+        "abstract": "Ketika Penulis melakukan observasi penelitian di SMA PGRI 2 Palembang, penulis mengetahui bahwa Perpustakaan SMA PGRI 2 Palembang belum memiliki sebuah sistem yang berbasis web dan aplikasi. Pengolahan data Perpustakaan SMA PGRI 2 Palembang musib dilakukan secara manual yaitu dicatat dibuku besar Disini. Penulis memilih membuat Aplikasi pada pihak SMA PGRI 2 Palembang dapat memberikan pelayanan akses informasi kepada para pengunjung dan anggota perpustakaan yang terhubung dengan internet. Melalui website ini pengunjung dan anggota perpustakaan dapat melihat data buku, bisa meminjam buku perpustakaan, dan lain-lain. Website ini dibuat dengan menggunakan alat bantu seperti UML, Diagram Aktivity, Diagram Class, dan Usecase, sedangkan dalam pembuatan kode program penulis menggunakan bahasa pemograman HTML, PHP, MySql, dan CSS. Sedangkan untuk membuatnya penulis dibantu oleh aplikasi XAMPP, Browser, dan Netbeans. Dengan membangun suatu sistem informasi berbasis web diharapkan dapat mengatasi berbagai permasalahan yang ada di Perpustakaan SMA PGRI 2 Palembang "
+    },
+    {
+        "id": "EDf6gnMPgXuq0nRj1LsE",
+        "title": "Aplikasi Pengolahan Data Alumni SMK Shailendra Menggunakan VB.Net",
+        "studentId": "18.11.137",
+        "studentName": "Alpa Hudawan",
+        "year": "2021",
+        "abstract": "Pengolahan data alumni menggunakan buku mengakibatkan proses pengolahan data slumni belum dapat dilakukan dengan cepat dan meningkatkan resiko hilang nya data. Focus dalam penelitian ini adalah pembuatan aplikasi dengan menggunakan bahasa pemograman yang telah banyak digunakan yaitu VB. Net. Metode Pengumpulan Data dalam penelitian ini mengenai aplikasi pendataan alumni pada SMK Shailendra Palembang berbasis aplikasi dan untuk metode pengembangan sistem menggunakan Waterfall. Penelitian ini menunjukkan hasil bahwa untuk menyajikan informasi Alumni SMK Shailendra Palembang yang meliputi penyajian data alumni. Serta informasi lainnya yang dirasa perlu untuk disajikan pada saat dibutuhkan seperti, memudahkan pencarian alumni lama atau baru. Pengembangan aplikasi ini dapat membantu dalam penanganan perubahan data baik itu penambahan, pengurangan atau pencarian data akan lebih mudah"
+    },
+    {
+        "id": "FRkDGO8HQ9wp7jCc3rP9",
+        "title": "Aplikasi Pengolahan Data Bantuan Sosial Pada Kecamatan Pedamaran Menggunakan JAVA",
+        "studentId": "20.11.023",
+        "studentName": "Uti Wulandari",
+        "year": "2020",
+        "abstract": "Penelitian ini bertujuan untuk menghasilkan sebuah aplikası berbasis pemograman visual yang dapat mempermudah proses pengolahan data pada sebuah perusahaan Mengembangkan aplikası Netbeans, dan MySql untuk pembuatan aplikası pengolahan data Metode yang di gunakan pada penelitian ini adalah metode deskriptif Metode pengembangan sistem pada pembuatan aplikası pengolahan data bantuan sosial uu adalah metode waterfall Metode waterfall terdırı dari empat tahap yaitu analisis, desain, pengkodean, dan pengujian. Subjek penelitian ini adalah Kecamatan Pedamaran Aplikası pengolahan data pada Kecamatan Pedamaran terdiri dari menu login yang berfungsi unuk pengaman bagı sistem, menu utama merupakan tampilan utama dari program aplikası pengolahan data, menu admin berfungsi memasukan data admin yang akan di olah, menu pengolahan data berfungsi untuk menginput semua data Aplikasi ini di harapkan dapat membantu dalam pengolahan data agar dapat mempermudah petugas administrasi tidak perlu mencatat secara manual "
+    },
+    {
+        "id": "GMTt9DPB6PRampVgf9Dc",
+        "title": "Sistem Informasi Pembuatan Sertifikat Badan Usaha PT. Tanda Pasai Berbasis WEB",
+        "studentId": "17.11.156",
+        "studentName": "Epriadi",
+        "year": "2020",
+        "abstract": "INTISARI tujuan tugas akhir ini adalah membuat website profil PT. Tanda Pasai Website PT Tanda Pasai yang dibuat sebagai bahan pertimbangan dalam penyampaian informasi dan profil PT Tanda Pasai agar lebih dikenal dan diakses dengan mudah oleh pimpinan, karyawan dan pihak luar PT Tanda Pasai. Website PT. Tanda Pasai ini berisikan profil PT Tanda Pasai yang terdiri dari sejarah, vısı misi, struktur PT Tanda Pasai, tugas dan tanggung jawab, form pendaftaran pembuatan sertifikat via online, data pendaftaran, data pembuatan sertifikat, gallery dan buku tamo. Data tersebut oleh PT Tanda Pasai dapat dipergunakan sebaik-baiknya untuk meningkatkan mutu PT Tanda Pasai dan penyampian informasi PT. Tanda Pasai kepada semua pihak dengan cepat dan efisien. Sistem website ini dibuat dengan program PHP dan database MySQL. Dapat disimpulkan bahwa sistem ini sudah siap dikembangkan."
+    },
+    {
+        "id": "IOpihqlP2X8UlGwySqKk",
+        "title": "Aplikasi Pengolahan Data Koperasi Pada SMA Negeri 1 Tanah Abang",
+        "studentId": "19.11.014",
+        "studentName": "Rangga Alpa Resa",
+        "year": "2022",
+        "abstract": "Penelitian ini bertujuan untuk menghasilkan sebuah aplikasi berbasis pemograman visual yang dapat mempermudah proses pengolahan data pada sebuah perusahaan. Mengembangkan aplikasi Netbeans dan MySql untuk pembuatan aplikasi pengolahan data Metode yang di gunakan pada penelitian ini adalah metode deskriptif Metode pengembangan sistem pada pembuatan aplikası pengolahan data barang ini adalah metode waterfall. Metode waterfall terdiri dari empat tahap yaitu analisis, desain, pengkodean, dan pengujian Subjek penelitian ini adalah Koperasi Pada SMA Negeri Tanah Abang Aplikasi pengolahan data pada Koperasi Pada SMA Negeri 1 Tanah Abang terdiri dari menu login yang berfungsi unuk pengaman bagi sistem menu utama merupakan tampilan utama dari program aplikası pengolahan data, menu admin berfungsi memasukan data admin yang akan di olah, menupengolahan data berfungsi untuk menginput semua data. Aplikasi ini da harapkan dapat membantu dalam pengolahan data agar dapat mempermudah petugas administrasi tidak perlu mencatat secara manual."
+    },
+    {
+        "id": "ITVczCx37OLq0XKRAmL5",
+        "title": "Aplikasi Pengolahan Data Surat di SD Negeri 7 Lubai Ulu Menggunakan VIBI.NET",
+        "studentId": "18.11.153",
+        "studentName": "Nur Rohman",
+        "year": "2021",
+        "abstract": "Penelitian ini bertujuan untuk membuat dan merancang sebuah aplikasi pengolahan data surat yang dikelola menggunakan program komputer VB.Net dan MySql sehingga menghasilkan aplikasi yang cepat dan akurat yang memudahkan pengguna dalam proses pengolahan data surat SD Negeri 7 Lubai Ulu. Penelitian ini menggunakan Metode Deskriptif (Descriptive Research) yaitu penelitian yang berusaha untuk mengumpulan, pengolahan, analisis, dan penyajian data yang dilakukan secara sistematis yang menggunakan tiga metode pengumpulan data yaitu observasi, wawancara, dokumentasi Penelitian ini menggunakan Metode pengembangan system yaitu metode waterfall mempunyai ciri khas bahwa pengerjaan setiap fase harus dikerjakan terlebih dahulu sebelum melanjutkan ke fase berikutnya. Memilikı lima tahapan yaitu Analisis kebutuhan perangkat lunak, Desain, Pengkodean, Pengujian, dan Pendukung (support) atau pemeliharaan (maintenance). Aplikasi pengarsipan surat ini memiliki beberapa menu seperti menu login, data surat masuk, master surat keluar, data surat keluar, laporan surat masuk, laporan surat keluar dan menu petugas. Dengan adanya aplikasi ini diharapkan dapat mempermudah pengolahan data surat di SD Negeri 7 Lubai Ulu "
+    },
+    {
+        "id": "M8pEB6X6fqZ4G09fNqnS",
+        "title": "Aplikasi Pengolahan Data Kematian Pada Kelurahan Karang Anyar Palembang Menggunakan Visual Basic.Net",
+        "studentId": "20.11.012",
+        "studentName": "Muhammad Ilyas",
+        "year": "2023",
+        "abstract": "Aplikasi pengolahan data kematian menjadi penting dalam upaya modernisasi administrasi di tingkat kelurahan. Penelitian ini bertujuan untuk merancang dan mengembangkan aplikası pengolahan data kematian yang efisien dan terpusat untuk Kelurahan Karanganyar, Palembang. Metode pengembangan menggunakan Visual Basic NET sebagai platform utarna Latar belakang penelitian melibatkan tantangan dalam pengumpulan, pengolahan, dan pelaporan data kematian yang belum terintegrasi dengan baik Oleh karena itu, dibutuhkan sistem yang mampu mengelola data kematian secara terpusat, termasuk informasi tentang warga, kematian, dan validasi data Pada tahap analisis, data kematian dan kebutuhan pengguna diidentifikası Diagram aliran data (DFD) digunakan untuk memodelkan alur kerja aplikası, yang melibatkan proses input data, validası, pencarian, dan pelaporan. Basis data terpusat dimplementasikan untuk menyimpan dan mengelola data kematian Hasil dari penelitian ini adalah sebuah aplikasi desktop yang memungkinkan admin kelurahan untuk melakukan input, validası, pencarian, dan pelaporan data kematian Aplikasi ini mengintegrasikan data warga, data kematian, dan status validası, sehingga menghasilkan pengolahan data yang lebih efisien dan akurat"
+    },
+    {
+        "id": "OFjbiqMojUhwiFcck5zm",
+        "title": "Aplikasi Monitoring Kinerja Guru di SMA Negeri 1 Tanah Abang Kabupaten Pali Berbasis JAVA",
+        "studentId": "19.11.032",
+        "studentName": "Astri Cahya Fitrisia",
+        "year": "2022",
+        "abstract": "Saat itu peneliti melakukan survey observasi di SMA Negeri 1 Tanah Abang Kabupaten Pali. Pengolahan data di SMA Negeri 1 Tanah Abang Kabupaten Pali telah berbasis komputer namun masih menggunakan Aplikası Microsoft Office dan masih banyak kekurangannya. Penulis menyimpulkan untuk membuat aplikası pengolahan data di SMA Negeri 1 Tanah Abang Kabupaten Pali dengan menggunakan pendekatan terstruktur untuk mendukung beberapa teori seperti DFD&ERD dan metode pengembangan sistem yang digunakan untuk model waterfall. Dan perangkat lunak untuk menggunakan Netbeans, XAMPP, dan MySQL, Microsoft Office 2007 dan Microsoft Visio 2007 sebagai perangkat lunak pendukung. Dengan pengolahan data berbasis komputer akan lebih memudahkan pengolahan data yang ada di SMA Negeri 1 Tanah Abang Kabupaten Pali Adanya aplikasi pengolahan data berbasis komputer dapat membantu guru di SMA Negeri 1 Tanah Abang Kabupaten Pali melakukan pengolahan data dan laporan-laporan yang dibutuhkan untuk lebih cepat dan efisien."
+    },
+    {
+        "id": "OukDTTN9Jbfn8Y0X6XYT",
+        "title": "Sistem Informasi E-Learning Pada SD 4 Tunggal Palembangn Berbasis WEB",
+        "studentId": "20.11.025",
+        "studentName": "Muhammad Daniel",
+        "year": "2023",
+        "abstract": "Ketika penulis melakukan observasi penelitian di Sekolah Dasa Empat Tunggal Palembang, penulis mengetahui bahwa SD Empat Tunggal belum memiliki sebuah sistem informasi elearning yang berbasis internet atau disebut website. Pembelajaran dilakukan oleh SD Empat Tunggal masih dilakukan secara biasa misalnya melalui tatap muka ketika pandemi yang lalu proses belajar mengajar sangat sulit dijangkau, sehingga system elearning berbasis web ini sangat dibutuhkan. Metode yang digunakan dalam Sistem Informasi elearning berbasis web pada SD Empat Tunggal, serta untuk mengetahui sistem informasi yang berjalan, menggunakan diagram use case, diagram class, dan diagram activity sedangkan untuk metode pengembangan sistemnya menggunakan metode waterfall atau sering disebut metode air terjun. Perangkat lunak pendukung yang digunakan adalah XAMPP, Macromedia Dreamweaver CS5, database MySQL, dan Microsoft Office 2013 sebagai pembangun sistem informasi serta dokumentasi dan laporan."
+    },
+    {
+        "id": "Q4xYWD06ObGveGnTJwAv",
+        "title": "Aplikasi Stok Sparepart di CV. Barokah Motor Palembang Menggunakan Visual Basic.Net",
+        "studentId": "18.11.077",
+        "studentName": "Ilham Syaputra",
+        "year": "2021",
+        "abstract": "Hasil dari perancangan aplikasi pengolahan data panjualan barang um menunjukan bahwa peranan aplikasi komputer dalam pengolahan data sangal penting sebagai panunjang dalam meningkatkan kualitas kegiatan penjualan di perusahaan tersebut "
+    },
+    {
+        "id": "QKSeZqaxp8FwK9PtOBjA",
+        "title": "Sistem Informasi Pengolahan Data Penumpang Pada CV. Wira MAnggala Palembang Berbasis WEB",
+        "studentId": "17.11.035",
+        "studentName": "Ricki Kurniawan",
+        "year": "2020",
+        "abstract": "Ketika penulis melakukan penelitian pada CV. Wira Manggal penulis mendapati bahwa perusahan tersebut pemesanan dan informasi masih secara manual. Namun hal ini masih kurang dirasakan kurang terutama pada pemesanan jasa. Adapun permasalahan-permasalahan terjadi pada saat pemesanan jasa yaitu kurangnya data ataupun berkas penting lainnya dan laporan-laporan yang akan disimpan serta keterlambatan dalam penyajian informasi. Metode yang digunakan dalam sistem informasi pemesanan secara online berbasis website pada CV. Wira Manggal adalah metode deksritif, serta untuk mengetahui sistem yang berjalan, menggunakan pendekatan tersktuktur dengan menggunakan beberapa alat bantu seperti UML. usecase, activity diagram, class diagram sedangkan metode pengembangan sistemnya menggunakan model waterfal yang merupakan model klasik yang sederhana dengan aliran sistem yang linier Perangkat lunak pendukung yang digunakan dalam XAMPP, adobe dreamweaver, dan database phpmyadmin. Alternatif pemecahan masalah yang diatas, penulis juga sengaja merancang dan membangun website CV. Wira Manggal dengan menggunakan bahasa pemrograman PHP yang dapat membantu dalam mengelola data pemesanan secara online, pengelolaan data serta laporan-laporan."
+    },
+    {
+        "id": "QigLO2PiZcMJzmebi5t5",
+        "title": "Sistem Informasi Berbasis WEB Sekolah Dasar Negeri 17 Banyuasin 1",
+        "studentId": "16.11.100",
+        "studentName": "Rahmat Salam",
+        "year": "2019",
+        "abstract": "Ketika penulis melakukan observasi penelitian di SD Negeri 17 Banyuasin I, penulis mengetahui bahwa SD Negeri 17 Banyuasin I belum memiliki sebuah sistem informasi yang berbasis internet atau disebut website. Penyampaian informasi SD Negeri 17 Banyuasin I masih dilakukan secara biasa misalnya penyampaian informasi melalui mulut ke mulut, pengumuman hanya selebaran kertas. Metode yang digunakan dalam Sistem Informasi berbasis web pada SD Negeri 17 Banyuasin I, serta untuk mengetahui sistem informasi yang berjalan, menggunakan diagram use case, diagram class, dan diagram activity sedangkan untuk metode pengembangan sistemnya menggunakan metode waterfall atau sering disebut metode air terjun. Perangkat lunak pendukung yang digunakan adalah XAMPP, Macromedia Dreamweaver CS5, database MySQL, dan Microsoft Office 2013 sebagai pembangun sistem informasi serta dokumentasi dan laporan."
+    },
+    {
+        "id": "SSiIhftUbYyI5u3wN80l",
+        "title": "Sistem Informasi Penjualan dan Service Pada CV. RKU Komputer Berbasis WEB",
+        "studentId": "17.11.110",
+        "studentName": "Andrie Irawan",
+        "year": "2020",
+        "abstract": "Perkembangan teknologi membuat segala hal harus bisa dilakukan dengan cepat dan mudah, begitu juga yang terjadi pada akses informasi. Informasi harus bisa diakses dengan mudah, kapanpun, dan dimanapun orang Aplikası penjualan dan servis pada CV RKU Komputer menyediakan berbagai macam komputer, dan aksesoris komputer dan memberikan layanan yang optimal kepada para pengunjung maupun pembeli dengan membuat sebuah layanan yang terhubung ke internet. Aplikasi ini dapat dibuat dengan membentuk sebuah website Dengan website pihak CV RKU Komputer dapat memberikan pelayanan akses informası kepada para pengunjung dan pembeli Melalui website ini pengunjung dan pembeli dapat melihat dan membeli berbagai macam Komputer dan Aksesoris komputer dan CV RKU Komputer Website ini dibuat dengan menggunakan alat bantu seperti UML, Diagram Aktivity, Diagram Class, dan Usecase, sedangkan dalam pembuatan kode program penulis menggunakan bahasa permograman HTML, PHP, Jquery, MySql, dan CSS Sedangkan untuk membuatnya penulis dibantu oleh aplikası XAMPP, Browser, dan Adobe Dreamweaver CSS Dengan membangun suatu sistem informası berbasis web diharapkan dapat mengatasi berbagai permasalahan yang ada di CV RKU Komputer "
+    },
+    {
+        "id": "SW9H3a66Qi4HjVxkbESB",
+        "title": "Sistem Informasi Penerimaan Karyawan pada CV. Tujuh Putra Musi Berbasis WEB",
+        "studentId": "17.11.134",
+        "studentName": "Dwi Anggraini",
+        "year": "2020",
+        "abstract": "Ketika peneliti melakukan observasi survei di CV. Tujuh Putra Musi Kami sadar bahwa tidak memiliki Aplikasi Pengolahan Data komputer Pemrosesan data dilakukan dengan tangan, dengan tulisan tangan. Para penulis menyimpulkan untuk membuat aplikasi pengolahan data di CV. Tujuh Putra Musi menggunakan pendekatan terstruktur untuk mendukung beberapa teori seperti UML dan metode pengolahan data yang digunakan untuk model air terjun. Dan perangkat lunak untuk menggunakan AppServ (Apache, MySql). PHP dan MYsql, Microsoft Office 2007 dan Microsoft Visio 2007 sebagai perangkat lunak pendukung Dengan pengolahan data berbasis komputer akan lebih memudahkan pengolahan data di CV. Tujuh Putra Musi , seperti pengolahan data Dan dengan aplikasi pengolahan data berbasis komputer dapat membantu karyawan di CV. Tujuh Putra Musi melakukan pencarian dalam data yang dibutuhkan."
+    },
+    {
+        "id": "VrhhqS7AJp4RzgNOVmyS",
+        "title": "Aplikasi Pelayanan Administrasi Akte Kelahiran dan Kematian Pada Kecamatan Sukarami Palembang Menggunakan JAVA",
+        "studentId": "20.11.068",
+        "studentName": "Eka Rahayu",
+        "year": "2023",
+        "abstract": "Penelitian ini bertujuan untuk menghasilkan sebuah aplikasi berbasis pemograman visual yang dapat mempermudah proses pengolahan data pada sebuah perusahaan. Mengembangkan aplikası Netbeans, dan MySql untuk pembuatan aplikasi pengolahan data Metode yang di gunakan pada penelitian ini adalah metode deskriptif Metode pengembangan sistem pada pembuatan aplikasi pengolahan data akte kelahiran dan kematian ini adalah metode waterfall Metode waterfall terdiri darı empat tahap yaitu: analisis, desain, pengkodean, dan pengujian. Subjek penelitian ini adalah Kecamatan Sukarami Aplikasi pengolahan data pada Kecamatan Sukarami terdiri dari menu login yang berfungsi unuk pengaman bagi sistem, menu utama merupakan tampilan utama dari program aplikasi pengolahan data, menu admin berfungsi memasukan data admin yang akan di olah, menu pengolahan data berfungsi untuk menginput semua data. Aplikasi ini di harapkan dapat membantu dalam pengolahan data agar dapat mempermudah petugas administrasi tidak perlu mencatat secara manual."
+    },
+    {
+        "id": "W6XsvfFn59xYKGtDptTA",
+        "title": "Sistem Informasi SD Negeri 12 Lubai ULU Kabupaten Muara Enim Berbasis WEB",
+        "studentId": "16.11.121",
+        "studentName": "Anjani Romadhon",
+        "year": "2019",
+        "abstract": "Perkembangan teknologi membuat segala hal harus bisa dilakukan cepat dan mudah. Begitu juga yang terjadi pada akses informasi, Informasi harus bisa diakses dengan mudah, kapanpun dan dimanapun orang yang membutuhkanya. Sebagai sekolah dasar yang menyediakan sarana dan prasarana untuk kepentingan siswa dan siswi sekolah dasar untuk menyampakan informasi guna memepermudah siswa. Selain itu, system informasi SD Negeri 12 Lubai Ulu juga harus bisa memberikan informasi bagi masyarakat dengan membuat sebuah website. Dengan website pihak sekolah dapat memberikan informasi bagi masyarakat dan calon siswa. Melalui website ini masyarakat juga dapat melihat informasi sekolah, simentri yakni dapat melihat foto- foto kegiatan dari sekolah dasar. Website ini dibuat dengan menggunakan alat bantu seperti UML diagram activity, diagram class dan use case, sedangkan dalam pembuatan kode program peneliti menggunakan bahasa penegrograman HTML, PHP, Mysql, dan CSS. Sedangkan untuk membuatnya peneliti dibantu oleh aplikasi XAMPP, Browser, Photoshop, Photoscape, Amazing Slider dan Adobe Dreamweaver Max. Dengan membangun suatu sistem informasi berbasis Web, diharap dapat mengatasi berbagai permasalahan yang ada di SD Negeri 12 Lubai Ulu "
+    },
+    {
+        "id": "WHtRIh1heYnHMnZ8JGUj",
+        "title": "Aplikasi Pelayanan Masyarakat Pada Kecamatan Plaju Menggunakan JAVA",
+        "studentId": "20.11.046",
+        "studentName": "Dwi Devani",
+        "year": "2023",
+        "abstract": "Penelitian ini bertujuan untuk menghasilkan sebuah aplikasi berbasis pemograman visual yang dapat mempermudah proses pengolahan data pada sebuah perusahaan. Mengembangkan aplikası Netbeans, dan MySql untuk pembuatan aplikasi pengolahan data Metode yang di gunakan pada penelitian ini adalah metode deskriptif Metode pengembangan sistem pada pembuatan aplikasi pengolahan data bantuan sosial ini adalah metode waterfall. Metode waterfall terdiri dari empat tahap yaitu: analisis, desain, pengkodean, dan pengujian. Subjek penelitian ini adalah Kecamatan Plaju Aplikasi pengolahan data pada Kecamatan Plaju terdiri dari menu login yang berfungsi unuk pengaman bagi sistem, menu utama merupakan tampilan utama dari program aplikasi pengolahan data, menu admin berfungsi memasukan data admin yang akan di olah, menu pengolahan data berfungsi untuk menginput semua data. Aplikasi ini di harapkan dapat membantu dalam pengolahan data agar dapat mempermudah petugas administrasi tidak perlu mencatat secara manual."
+    },
+    {
+        "id": "X2sIlHKfBEBsQ5c7PHko",
+        "title": "Sistem Informasi SD Negeri 81 Palembang Berbasis WEB",
+        "studentId": "18.11.08.9",
+        "studentName": "Agung Tri Septi Yanto",
+        "year": "2019",
+        "abstract": "INTISARI Tujuan tugas akhir ini adalah membuat website profil sekolah SD Negeri 81 Palembang, Website sekolah yang dibuat sebagai bahan pertimbangan dalam penyampaian informasi dan profil SD Negeri 81 Palembang agar lebih dikenal dan di akses dengan mudah oleh siswa, guru, dn pihak luar sekolah. Website SD Negeri 81 Palembang ini berisikan profil sekolah yang terdiri dari sejarah, visi misi, struktur sekolah, tugas dan tanggung jawab, form pendaftaran siswa baru via online, data guru, data alumni, data siswam galeri dan buku tamu. Data tersebut oleh SD Negeri 81 Palembang dapat dipergunakan sebaik-baiknya untuk meningkatkan mutu sekolah dan penyampaian informasi sekolah kepada semua pihak dengan cepat dan efisien, Sistem website ini dibuat dengan program PHP dan database MySQL. Dapat disimpulkan bahwa system ini sudah siap dikembangkan."
+    },
+    {
+        "id": "XFi0TKvnWPxwJ9ImiPKr",
+        "title": "Aplikasi Pelayanan Administrasi Pembuatan Surat Pengantar Akte Kelahiran PAda Kecamatan Plaju Menggunakan JAVA",
+        "studentId": "20.11.014",
+        "studentName": "Nur Mutiansas",
+        "year": "2023",
+        "abstract": "Penelitian ini bertujuan untuk menghasilkan sebuah aplikasi berbasıs pemograman visual yang dapat mempermudah proses pengolahan data pada sebuah perusahaan. Mengembangkan aplikasi Netbeans, dan MySql untuk pembuatan aplikası pengolahan data Metode yang di gunakan pada penelitian ini adalah metode deskriptif Metode pengembangan sistem pada pembuatan aplikası pengolahan data akte kelahiran ini adalah metode waterfall. Metode waterfall terdin dan empat tahap yaitu analisis, desain, pengkodean, dan pengujian Subjek penelitian ini adalah Kecamatan Plaju Aplikası pengolahan data pada Kecamatan Plaju terdiri dari menu login yang berfungsi unuk pengaman bagi sistem, menu utama merupakan tampilan utama darı program aplikasi pengolahan data, menu admin berfungsi memasukan data admin yang akan di olah, menu pengolahan data berfungsi untuk menginput semua data Aplikası ını dı harapkan dapat membantu dalam pengolahan data agar dapat mempermudah petugas administrasi tidak perlu mencatat secara manual."
+    },
+    {
+        "id": "XL0nu4iQMYBbfbn0LInW",
+        "title": "Aplikasi Pelayanan MAsyarakat Pada Kecamatan Plaju Menggunakan JAVA",
+        "studentId": "20.11.046",
+        "studentName": "Dwi Devani",
+        "year": "2023",
+        "abstract": "Penelitian ini bertujuan untuk menghasilkan sebuah aplikasi berbasis pemograman visual yang dapat mempermudah proses pengolahan data pada sebuah perusahaan. Mengembangkan aplikasi Netbeans, dan MySql untuk pembuatan aplikasi pengolahan data Metode yang di gunakan pada penelitian ini adalah metode deskriptif. Metode pengembangan sistem pada pembuatan aplikasi pengolahan data bantuan sosial ini adalah metode waterfall. Metode waterfall terdiri dari empat tahap yaitu: analisis, desain, pengkodean, dan pengujian. Subjek penelitian ini adalah Kecamatan Plaju. Aplikasi pengolahan data pada Kecamatan Plaju terdiri dari menu login yang berfungsi unuk pengaman bagi sistem, menu utama merupakan tampilan utama dari program aplikasi pengolahan data, menu admin berfungsi memasukan data admin yang akan di olah, menu pengolahan data berfungsi untuk menginput semua data. Aplikasi ini di harapkan dapat membantu dalam pengolahan data agar dapat mempermudah petugas administrasi tidak perlu mencatat secara manual."
+    },
+    {
+        "id": "XecTiiFK5Y5HRoNHNUte",
+        "title": "Sistem Informasi Monitoring Perkembangan Belajar Siswa Pada SD Negeri 099 Palembang Berbasis WEB",
+        "studentId": "20.11.041",
+        "studentName": "M Rio Revanza",
+        "year": "2023",
+        "abstract": "Ketika penulis melakukan observasi penelitian di SD Negeri 099 Palembang, penulis mengetahui bahwa SD Negeri 099 Palembang belum memiliki sebuah sistem informasi monitoring perkembangan belajar siswayang berbasis internet atau disebut website Penyampaian informasi pemantauan SD Negeri 099 Palembang masih dilakukan secara biasa misalnya penyampaian informasi melalui sebuah surat panggilan orang tua, pengumuman hanya selebaran kertas. Metode yang digunakan dalam Sistem Informasi monitoring perkembangan belajar siswa berbasis web pada SD Negeri 099 Palembang, serta untuk mengetahui sistem informası yang berjalan, menggunakan diagram use case, diagram class, dan diagram activity sedangkan untuk metode pengembangan sistemnya menggunakan metode waterfall atau sering disebut metode air terjun Perangkat lunak pendukung yang digunakan adalah XAMPP, Macromedia Dreamweaver CS5, database MySQL, dan Microsoft Office 2013 sebagai pembangun sistem informası monitoring perkembangan belajar siswa serta dokumentasi dan laporan "
+    },
+    {
+        "id": "cmmZxGAR78nP3KxVuwHq",
+        "title": "Aplikasi Pengolahan Data Siswa SD MI Nusantara Menggunakan Netbeans",
+        "studentId": "18.11.083",
+        "studentName": "Najla Mahaluna",
+        "year": "2021",
+        "abstract": "Saat itu peneliti melakukan survey observasi di SD MI Nusantara Pengolahan data di SD MI Nusantara telah berbasis komputer namun masih menggunakan Aplikası Microsoft Office dan masih banyak kekurangannya. Penulis menyimpulkan untuk membuat aplikası pengolahan data di SD MI Nusantara dengan menggunakan pendekatan terstruktur untuk mendukung beberapa teori seperti DFD&ERD dan metode pengembangan sistem yang digunakan untuk model waterfall. Dan perangkat lunak untuk menggunakan Netbeans, XAMPP, dan MySQL, Microsoft Office 2007 dan Microsoft Visio 207 sebagai perangkat lunak pendukung Dengan pengolahan data berbasis komputer akan lebih memudahkan pengolahan data yang ada di SD MI Nusantara. Adanya aplikasi pengolahan data berbasis komputer dapat membantu guru di SD MI Nusantara melakukan pengolahan data dan laporan-laporan yang dibutuhkan untuk lebih cepat dan efisien."
+    },
+    {
+        "id": "eyypGATeNNgTxv0HVgBz",
+        "title": "Sistem Informasi Percetakan Jaya Sempurna Grafika PAlembang Berbasis WEB",
+        "studentId": "16.11.169",
+        "studentName": "Amrin R PasarIbu",
+        "year": "2019",
+        "abstract": "Ketika penulis melakukan observasi penelitian di Percetakan Jaya Sampurna Grafika Penulis mengetahui bahwa Percetakan Jaya Sampurna Grafika belum memiliki sebuah system informasi yang beebasis internet atau disebut dengan Web. Percetakan Jaya sampurna Grafika hanya melakukan pengolahan data secara manual, yaitu dengan menulis di buku besar untuk mencatat data pelanggan, data pemesanan, data produk, dan data pembayaran Metode yang digunakan untuk system informası Percetakan Jaya sampurna Grafika, serta untuk mengetahui system informasi yang berjalan, menggunakan diagram class, dan diagram activity Sedangkan dalam metode pengembangan sistemnya menggunakan metode waterfall atau disebut dengan metode air terjun. Perangkat lunak pendukung yang digunakan adalah XAMPP, Inkscape, Adobe Dreamweaver CSS, database, PhpMyadmin, MySQL, Microsoft Office 2010, Astah, Microsoft Office Visto, Photoshop, sebagai pembangun system infroması serta dokumentası juga laporan Dengan adanya system informasi berbasis web ini, diharapkan dapat membangun meringankan pekerjaan karyawan di percetakan Jaya Sampurna Grafika tersebut, termasuk dalam penyampaian informasi data prduk, data pemesanan, data pelanggan, dan data laporan, sehinggan data yang dihasilkan lebih tepat dan akurat."
+    },
+    {
+        "id": "fwxSIvIyYKWzJJBLr2PY",
+        "title": "Perancangan Sistem Informasi Pada MTS As-Salam berbasis WEB",
+        "studentId": "16.11.086",
+        "studentName": "Rizal",
+        "year": "2019",
+        "abstract": "Ketika peneliti melakukan observasi survei di MTS As-Salam. Kami sadar bahwa tidak memiliki Aplikasi Pengolahan Data komputer. Pemrosesan data dilakukan dengan tangan, dengan tulisan tangan. Para penulis menyimpulkan untuk membuat aplikasi pengolahan data di MTS As-Salam menggunakan pendekatan terstruktur untuk mendukung beberapa teori seperti UML dan metode pengolahan data yang digunakan untuk model air terjun. Dan perangkat lunak untuk menggunakan AppServ(Apache, MySql), PHP dan MYsql, Microsoft Office 2007 dan Microsoft Visio 207 sebagai perangkat lunak pendukung. Dengan pengolahan data berbasis komputer akan lebih memudahkan pengolahan data di MTS As-Salam, seperti pengolahan data Dan dengan aplikasi pengolahan data berbasis komputer dapat membantu karyawan di MTS As-Salam melakukan pencarian dalam data yang dibutuhkan."
+    },
+    {
+        "id": "gjJxxQNbDXFdkShEL05t",
+        "title": "SIstem Informasi Pengolahan Data Tenaga Kerja PT. Grand Wiajay Persada Berbasis WEB",
+        "studentId": "17.11.021",
+        "studentName": "Rio Djuefanie Saputra",
+        "year": "2020",
+        "abstract": "Perkembangan teknologi membuat segala hal harus bisa dilakukan dengan cepat dan mudah, begitu juga yang terjadi pada akses informasi. Informasi harus bisa diakses dengan mudah, kapanpun, dan dimanapun orang. Sistem informasi pengolahan data calon tenaga kerja berbasis web pada PT. Grand Wijaya Persada menyediakan jasa penyaluran tenaga kerja yang optimal kepada para pengunjung dengan membuat sebuah layanan yang terhubung ke internet. Sistem informasi ini dapat dibuat dengan membentuk sebuah website. Dengan website pihak PT. Grand Wijaya Persada dapat memberikan pelayanan akses informasi kepada para pengunjung dan calon tenaga kerja. Melalui website ini pengunjung dapat melihat pelayanan dari PT Grand Wijaya Persada. Website ini dibuat dengan menggunakan alat bantu seperti UML, Diagram Activity, Diagram Class, dan Use case, sedangkan dalam pembuatan kode program penulis menggunakan bahasa pemograman HTML, PHP, Jquery, MySql, dan CSS. Sedangkan untuk membuatnya penulis dibantu oleh aplikasi XAMPP, Browser, dan Adobe Dreamweaver CS6. Dengan membangun suatu sistem informasi berbasis web diharapkan dapat mengatasi berbagai permasalahan yang ada di PT. Grand Wijaya Persada."
+    },
+    {
+        "id": "h6qvhNallDSkqBAHXmuW",
+        "title": "Sistem Informasi Monitoring Pada PAUD Insan Mulia Barokah Berbasis WEB",
+        "studentId": "20.11.004",
+        "studentName": "Yudistira",
+        "year": "2023",
+        "abstract": "Ketika peneliti melakukan observasi survei di Sistem Informasi Monitoring Pada Paud Insan Mulia Barokah Berbasis Web Kami sadar bahwa tidak memiliki Aplikası Pengolahan Data komputer. Pemrosesan data dilakukan dengan tangan, dengan tulisan tangan. Para penulis menyimpulkan untuk membuat aplikası pengolahan data di Sistem Informası Monitoring Pada Paud Insan Mulia Barokah Berbasis Web menggunakan pendekatan terstruktur untuk mendukung beberapa teori seperti UML dan metode pengolahan data yang digunakan untuk model air terjun. Dan perangkat lunak untuk menggunakan AppServ (Apache MySql) PHP dan Mysql. Microsoft Office 2007 dan Microsoft Visio 2007 sebagai perangkat lunak pendukung Dengan pengolahan data berbasis komputer akan lebih memudahkan pengolahan data di Sistem Informasi Monitoring Pada Paud Insan Mulia Barokah Berbasis Web, seperti pengolahan data Dan dengan aplikasi pengolahan data berbasis komputer dapat membantu karyawan di Sistem Informasi Monitoring Pada Paud Insan Mulia Barokah Berbasis Web melakukan pencarian dalam data yang dibutuhkan "
+    },
+    {
+        "id": "iuRy3N9jusjfTy3WP3RM",
+        "title": "Sistem Informasi Pemesanan Catering Pada Cv. Zahra Berbasis WEB",
+        "studentId": "17.11.029",
+        "studentName": "Agung Ariansyah",
+        "year": "2020",
+        "abstract": "Ketika penulis melakukan observasi penelitian di CV Zahra Catering Palembang. penulis mengetahui bahwa CV Zahra Catering Palerubang belum memiliki sebuah sistem informasi yang berbasis internet atau disebut website Penyampaian informasi CV Zahra Catering Palembang masih dilakukan secara biasa misalnya penyampaian informasi melalui mulut ke mulut, pengumuman hanya selebaran kertas. Metode yang digunakan dalam Sistem Informasi berbasis web pada CV Zahra Catering Palembang, serta untuk mengetahui sistem informasi yang berjalan, menggunakan diagram use case, diagram class, dan diagram activity sedangkan untuk metode pengembangan sistemnya menggunakan metode waterfall atau sering disebut metode air terjun. Perangkat lunak pendukung yang digunakan adalah XAMPP, Macromedia Dreamweaver CS5, database MySQL, dan Microsoft Office 2010 sebagai pembangun sistem informasi serta dokumentasi dan laporan "
+    },
+    {
+        "id": "mZVr3Tc7t5vFlPmEL9z3",
+        "title": "Sistem Informasi Pengolahan Data Pemesanan Percetakan Secara Online Pada CV. Adi Putra Utama Berbasis WEB",
+        "studentId": "17.11.092",
+        "studentName": "Robin Kennedy",
+        "year": "2020",
+        "abstract": "Perkembangan teknologi membuat segala hal harus bisa dilakukan dengan cepat dan mudah, begitu juga yang terjadi pada akses informasi Ketika penulis melakukan penelitian di CV Adi Putra Utama, penulis mendapati bahwa perusahaan tersebut tjdak menyediakan layanan pemesanan online Perusahaan tersebut hanya bisa melayani transaksi yang dilakukan melalui telepon, datang langsung ke tempat serta dalam metode promosi dilakukan hanya pada wilayah setempat, dan belum sampai ke daerah-daerah. Website ini dibuat dengan menggunakan alat bantu seperti UMI, use eaw diagram, diagram activity, diagram class, sedangkan dalam pembuatan kode program, penulis menggunakan pemograman HTML, PHP MSSQL dan CSS langkan untuk membuatnya peneliti dibantu oleh aplikasi XAMPP Browser, dan Adobe Dreamweaver CS5. Dengan membangun suatu sistem informasi berbasis web Diharapkan dapat mengatasi permasalahan yang ada di CV. Adi Putra Utama."
+    },
+    {
+        "id": "pBzqWgLAuSPbSm1e0BXf",
+        "title": "Sistem Informasi Pemesanan Kamar Pada CV Limas Palembang Berbasis WEB",
+        "studentId": "17.11.037",
+        "studentName": "Harby",
+        "year": "2020",
+        "abstract": "Ketika penulis melakukan observasi penelitian di CV Limas Palembang, penulis mengetahui bahwa CV Limas Palembang belum memiliki sebuah sistem informasi yang berbasis internet atau disebut website. Penyampaian informasi CV Limas Palembang masih dilakukan secara biasa misalnya penyampaian informasi melalui mulut ke mulut, pengumuman hanya selebaran kertas. Metode yang digunakan dalam Sistem Informasi berbasis web pada CV Limas Palembang, serta untuk mengetahui sistem informasi yang berjalan, menggunakan diagram use case, diagram class, dan diagram activity sedangkan untuk metode pengembangan sisterunya menggunakan metode waterfall atau sering disebut metode air terjun. Perangkat lunak pendukung yang digunakan adalah XAMPP, Macromedia Dreamweaver CS5, database MySQL, dan Microsoft Office 2010 sebagai pembangun sistem informasi serta dokumentasi dan laporan."
+    },
+    {
+        "id": "sZPr8EKOYQzFkFgG3P7C",
+        "title": "Aplikasi Pelayanan Permohonan Pembuatan Kartu Keluarga Baru Pada Kelurahan Karang Jaya Menggunakan JAVA",
+        "studentId": "20.11.013",
+        "studentName": "Muhammad Yusuf",
+        "year": "2023",
+        "abstract": "Penelitian ini bertujuan untuk menghasilkan sebuah aplikasi berbasis pemograman visual yang dapat mempermudah proses pengolahan data pada sebuah perusahaan Mengembangkan aplikasi Netbeans, dan MySql untuk pembuatan aplikası pengolahan data Metode yang di gunakan pada penelitian ini adalah metode deskriptif Metode pengembangan sistem pada pembuatan aplikasi pengolahan data Pembuatan Surat Pengantar Kartu Keluarga ini adalah metode waterfall. Metode waterfall terdiri dari empat tahap yaitu analisis, desain, pengkodean, dan pengujian. Subjek penelitian ini adalah Kelurahan Karang Jaya Aplikasi pengolahan data pada Kelurahan Karang Jaya terdiri dari menu login yang berfungsi unuk pengaman bagi sistem, menu utama merupakan tampilan utama dari program aplikasi pengolahan data, menu admin berfungsi memasukan data admin yang akan di olah, menu pengolahan data berfungsi untuk menginput semua data. Aplikasi ini di harapkan dapat membantu dalam pengolahan data agar dapat mempermudah petugas administrasi tidak perlu mencatat secara manual."
+    },
+    {
+        "id": "tgO558uB5VOehbfD6SFi",
+        "title": "Aplikasi Pengolahan Data Siswa di SD Negeri 01 Pemulutan Menggunakan VB.Net",
+        "studentId": "18.11.058",
+        "studentName": "Adyan Irsyad",
+        "year": "2021",
+        "abstract": "Saat itu peneliti melakukan survey observasi di SD Negeri 01 Pemulutan Pengolahan data di SD Negeri 01 Pemulutan telah berbasis komputer namun masih menggunakan Aplikasi Microsoft Office dan masih banyak kekurangannya. Penulis menyimpulkan untuk membuat aplikası pengolahan data di SD Negeri 01 Pemulutan dengan menggunakan pendekatan terstruktur untuk mendukung beberapa teori seperti DFD&ERD dan metode pengembangan sistem yang digunakan untuk model waterfall Dan perangkat lunak untuk menggunakan VB Net. XAMPP, dan MySQL, Microsoft Office 2007 dan Microsoft Visio 2007 sebagai perangkat lunak pendukung Dengan pengolahan data berbasis komputer akan lebih memudahkan pengolahan data yang ada di SD Negeri 01 Pemulutan. Adanya aplikasi pengolahan data berbasis komputer dapat membantu karyawan di SD Negeri 01 Pemulutan melakukan pengolahan data dan laporan-laporan yang dibutuhkan untuk lebih cepat dan efisien."
+    },
+    {
+        "id": "tyyvGLtFLQL6QIyEOSfC",
+        "title": "Sistem Informasi Sekolah Dasar Negeri 85 Palembang Berbasis WEB",
+        "studentId": "16.11.007",
+        "studentName": "Redi Arianto",
+        "year": "2019",
+        "abstract": "Ketika Penulis melakukan penelaian terhadap Pendaftaran Siswa Baru, Data Siswa dan Deta Alumni pada Sekolah Dasarar Negeri 85 Palembang Penulis mendapati bahwa sekolah tersebut tidak menyediakan layanan pendattaran siswa baru secara online SDN 85 Palembang hanya bias melayani pendaftaran siswa baru yang dilakukan secara manual atau calon siswa baru dating kesekolah Metode yang digunakan dalam Rancang Bangun Website pada SDN 85 Palembang im, serta untuk mengetahui sistem yang sedang berjalan, menggunakan pendekatan terstruktur, dengan menggunakan beberapa alat bantu seprti UMI, use case diagram, aktivitas diagram, dan kelas diagram, sedangkan untuk metode pengembangan sistemnya menggunakan sekuensial linier atau sering disebut \"model ait terjun Perangkat lunak pendukung yang digunakan adalah XAMPP, Adobe Dreamweaver CS5 dan Database MySQL sebagai pembangun serta dokumentasi program dan laporan Dengan adanya sistem berbasis web ini, yang sudah terkoneksi dengan Internet, tentunya akan sangat mempermudah pengolahan data calon siswa baru, data siswa, dan data alumni dan akan sangat membantu pengguna dalam pendaftaran calon siswa baru, mencari tahu data siswa dan data alumnı yang ada, karena setiap informasi yang diberikan kepada pengguna bias lebih cepat."
+    },
+    {
+        "id": "uRTuIZ5210frwcyaIey8",
+        "title": "Sistem Informasi Pemesanan Tiket Kerete Api PAda CV. Melati Berbasis WEB",
+        "studentId": "17.11.014",
+        "studentName": "Ricky Marta Dinata",
+        "year": "2020",
+        "abstract": "Ketika penulis melakukan observasi penelitian di CV Melati Palembang, penulis mengetahui bahwa CV Melati Palembang belum memiliki sebuah sistem informasi yang berbasis internet atau disebut website. Penyampaian informasi CV Melati Palembang masih dilakukan secara biasa misalnya penyampaian informasi melalui mulut ke mulut, pengumuman hanya selebaran kertas. Metode yang digunakan dalam Sistem Informasi berbasis web pada CV Melati Palembang, serta untuk mengetahui sistem informasi yang berjalan, menggunakan diagram use case, diagram class, dan diagram activity sedangkan untuk metode pengembangan sistemnya menggunakan metode waterfall atau sering disebut metode air terjun. Perangkat lunak pendukung yang digunakan adalah XAMPP, Macromedia Dreamweaver CS5, database MySQL, dan Microsoft Office 2010 sebagai pembangun sistem informasi serta dokumentasi dan laporan."
+    },
+    {
+        "id": "vJeZ2gCwZdD8aHDeWf1P",
+        "title": "Sistem Informasi Pendaftaran Online SMK Bina Sriwijaya Indonesia Palembang Berbasis WEB",
+        "studentId": "16.11.046",
+        "studentName": "Leri Umyansyah",
+        "year": "2019",
+        "abstract": "Perkembangan teknologi membuat segala hal harus bisa dilakukan cepat dan mudah. Begitu juga yang terjadi pada akses informası. Infroması harus bisa diakses dengan mudah, kapanpun dan di manapun orang membutuhkannya. Sebagai Sekolah Menengah Kejuruan yang menyediakan sarana dan prasarana untuk kepentingan siswa dan siswi Sekolah Menengah Kejuruan untuk menyampaikan informasi guna mempermudah siswa. Selain itu, sistem informasi SMK Bina Sriwijaya Indonesia Palembang juga harus bisa memberikan informasi bagi masyarakat dengan membuat sebuah website. Dengan website pihak sekolah dapat memberikan infroması bagi masyarakat dan calon siswa. Melalui website ini masyarakat juga dapat melihat informasi sekolah, simentri yakni dapat melihat foto-foto kegiatan dari sekolah dasar Website ini dibuat dengan menggunakan alat bantu seperti UML, diagram activity, diagram class dan use case, sedangkan dalam pembuatan kode program peneliti menggunakan bahasa pemograman HTML, PHP, Mysql dan CSS Sedangkan untuk membuatnya penelitian dibantui oleh aplikası XAMPP, Googel Chorme, Photoshop, Amazıng Slider dan Adobe Dreamweaver. Dengan membangun suatu sistem infomasi berbasis Web, diharapkan dapat mengatasi berbagai permasalahan yang ada di SMK Bina Sriwijaya Indonesia Palembang."
+    },
+    {
+        "id": "xxXDzucudbOIXjxAAZcw",
+        "title": "Aplikasi Inventaris Barang PAda SMA Negeri 1 Pedamaran Berbasis JAVA",
+        "studentId": "19.11.114",
+        "studentName": "Kelmen Sapedi",
+        "year": "2022",
+        "abstract": "Saat itu peneliti melakukan survey observasi di SMA Negeri 1 Pedamaran. Pengolahan Inventaris barang di SMA Negeri 1 Pedamaran telah berbasis koruputer namun masih menggunakan Aplikasi Microsoft Office dan masih banyak kekurangannya. Penulis menyimpulkan untuk membuat aplikasi pengolahan inventaris barang di SMA Negeri 1 Pedamaran dengan menggunakan pendekatan terstruktur untuk mendukung beberapa teori seperti DFD&ERD dan metode pengembangan sistem yang digunakan untuk model waterfall Dan perangkat lunak untuk menggunakan Netbeans, XAMPP, dan MySQL, Microsoft Office 2007 dan Microsoft Visio 207 sebagai perangkat lunak pendukung. Dengan pengolahan data berbasis komputer akan lebih memudahkan pengolahan data yang ada di SMA Negeri 1 Pedamaran. Adanya aplikasi inventaris barang berbasis komputer dapat membantu guru di SMA Negeri 1 Pedamaran melakukan pengolahan data dan laporan-laporan yang dibutuhkan untuk lebih cepat dan efisien."
+    }
+]

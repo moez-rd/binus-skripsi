@@ -1,8 +1,6 @@
 "use client";
 
 import useEditHandler from "@/components/organisms/admin/editHandler";
-import useHandler from "@/components/organisms/admin/handler";
-import { getThesisById } from "@/lib/firebase/queries";
 
 export default function Page({ params }: { params: { id: string } }) {
   const {
@@ -96,7 +94,7 @@ export default function Page({ params }: { params: { id: string } }) {
             className="bg-gray-900 text-white py-3 px-8 rounded-md font-medium hover:bg-gray-800 disabled:bg-gray-700"
             disabled={loading}
           >
-            {loading ? "Tunggu" : "Tambah"}
+            {loading ? "Tunggu" : "Perbarui"}
           </button>
         </form>
       </div>

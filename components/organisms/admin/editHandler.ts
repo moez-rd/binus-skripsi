@@ -1,4 +1,5 @@
-import { getThesisById, ThesisProps } from "@/lib/firebase/queries";
+import { Thesis, ThesisRequest } from "@/types";
+import axios from "axios";
 import React, { useEffect, useState } from "react";
 
 export default function useEditHandler(id: string) {
@@ -10,7 +11,7 @@ export default function useEditHandler(id: string) {
     yearsArray.push(year);
   }
 
-  const defaultThesis: ThesisProps = {
+  const defaultThesis: Thesis = {
     studentName: "",
     studentId: "",
     title: "",
@@ -18,16 +19,22 @@ export default function useEditHandler(id: string) {
     abstract: "",
   };
 
-  const [thesis, setThesis] = useState<ThesisProps>(defaultThesis);
+  const [thesis, setThesis] = useState<Thesis>(defaultThesis);
 
   useEffect(() => {
     async function getThesis() {
-      const thesisBefore = await getThesisById(id);
-      setThesis(thesisBefore || defaultThesis);
+      const thesisBefore = await axios.get(
+        `${process.env.NEXT_PUBLIC_APP_URL}/api/theses/${id}`
+      );
+
+      console.log(thesisBefore.data);
+
+      setThesis(thesisBefore.data || defaultThesis);
     }
 
     getThesis();
-  });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   const [loading, setLoading] = useState<boolean>(false);
   const [success, setSuccess] = useState<string>("");
@@ -49,23 +56,23 @@ export default function useEditHandler(id: string) {
 
     setLoading(true);
 
+    const thesisRequest: ThesisRequest = {
+      title: thesis.title,
+      abstract: thesis.abstract,
+      studentName: thesis.studentName,
+      studentId: thesis.studentId,
+      year: thesis.year,
+    };
+
     const result = await fetch(
       `${process.env.NEXT_PUBLIC_APP_URL}/api/theses/${id}`,
       {
-        method: "UPDATE",
-        body: JSON.stringify(thesis),
+        method: "PUT",
+        body: JSON.stringify(thesisRequest),
       }
     );
 
-    setThesis({
-      studentName: "",
-      studentId: "",
-      title: "",
-      year: 2005,
-      abstract: "",
-    });
-
-    setSuccess("Berhasil menambahkan skripsi");
+    setSuccess("Berhasil memperbarui skripsi");
 
     setTimeout(() => {
       setSuccess("");

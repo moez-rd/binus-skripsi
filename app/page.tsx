@@ -3,10 +3,10 @@
 import React, { useState } from "react";
 import { AiOutlineLoading3Quarters } from "react-icons/ai";
 import axios from "axios";
-import { ThesisProps } from "@/lib/firebase/queries";
+import { Thesis } from "@/types";
 
 export default function HomePage() {
-  const [theses, setTheses] = useState<ThesisProps[]>();
+  const [theses, setTheses] = useState<Thesis[]>();
   const [search, setSearch] = useState<string>("");
   const [loading, setLoading] = useState<boolean>(false);
   const [found, setFound] = useState<boolean>(true);

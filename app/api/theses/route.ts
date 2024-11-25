@@ -1,12 +1,11 @@
-import { insertThesis, ThesisProps } from "@/lib/firebase/queries";
+import { createThesis } from "@/lib/mongodb/queries";
+import { ThesisRequest } from "@/types";
 import { NextRequest } from "next/server";
 
 export async function POST(request: NextRequest) {
-  const thesis: ThesisProps = await request.json();
+  const thesis: ThesisRequest = await request.json();
 
-  console.log("hehe");
-
-  const results = await insertThesis(thesis);
+  const results = await createThesis(thesis);
 
   return Response.json(results);
 }
