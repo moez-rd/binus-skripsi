@@ -48,9 +48,21 @@ export async function searchTheses(term?: string) {
     {
       $search: {
         index: "thesis-index",
-        text: {
-          query: term || "*",
-          path: "title",
+        compound: {
+          should: [
+            {
+              text: {
+                query: term || "*",
+                path: "title",
+              },
+            },
+            {
+              text: {
+                query: term || "*",
+                path: "studentName",
+              },
+            },
+          ],
         },
       },
     },
